@@ -1,0 +1,30 @@
+#div1 {
+    background-color: blueviolet;
+}
+#div2 {
+    background-color: burlywood;
+
+}
+p {
+    margin: 20px;
+    font-size: large;
+}
+table {
+    margin: 20px;
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 30%;
+}
+th, td {
+    border: 1px solid;
+}
+
+th {
+    background-color: blueviolet;
+}
+
+.target {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: brown;
+}
