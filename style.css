@@ -28,3 +28,14 @@ th {
     font-size: large;
     color: brown;
 }
+
+@media(min-width=500px){
+    body {
+        background-color: bisque;
+    }
+}
+@media(max-width=499px){
+    body {
+        background-color: darkgray;
+    }
+}
